@@ -1,0 +1,3 @@
+(function(thisObj){
+    
+})(this);
